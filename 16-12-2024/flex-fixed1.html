@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+  
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.cards-container {
+    display: flex;
+    gap: 20px;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.card {
+   
+    border: 1px solid #ccc;
+  
+    border-radius: 5px;
+    overflow: hidden;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.card h2 {
+    font-size: 1.5rem;
+    padding: 10px;
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.card p {
+    padding: 10px;
+    flex: 1;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div class="cards-container">
+        <div class="card">
+            <h2>A short heading</h2>
+            <img src="download.jpg" >
+            <p>The idea of reaching the North Pole by means of balloons appears to have been entertained many years ago.</p>
+        </div>
+
+        <div class="card">
+            <h2>A short heading</h2>
+            <img src="download.jpg">
+            <p>Short content.</p>
+            <div class="footer">I have a footer!</div>
+        </div>
+
+        <div class="card">
+            <h2>A longer heading in this card</h2>
+            <img src="download.jpg" >
+            <p>In a curious work, published in Paris in 1863 by Delaville Dedreux, there is a suggestion for reaching the North Pole by an aerostat.</p>
+            <div class="footer">I have a footer!</div>
+        </div>
+    </div>
+    
+</body>
+</html>
