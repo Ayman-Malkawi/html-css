@@ -1,0 +1,765 @@
+
+
+
+
+.hi {
+    background: white;
+    ;
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2C3E50;
+    font-size: 4.5rem;
+    font-weight: 900;
+}
+
+.H {
+    font-size: 4.5rem;
+    font-weight: 800;
+    color: #2C3E50;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.serveiyng {
+    font-size: 1rem;
+    font-weight: 300;
+    color: #2c3e5079;
+
+}
+
+.firstsection {
+    display: flex;
+
+
+
+}
+
+.aboutme {
+    text-align: center;
+    margin-right: 30%;
+    margin-top: 10%;
+    padding: 80px;
+
+
+}
+
+.howami {
+    color: #2c3e5079;
+    font-size: 2rem;
+    font-weight: 350;
+    justify-content: right;
+    text-align: right;
+
+
+}
+
+.imgone {
+    margin-left: 10%;
+
+}
+
+.aboutme,
+h2 {
+    color: #2C3E50;
+}
+
+.aboutme,
+p {
+    font-family: Verdana, sans-serif;
+    color: rgb(128, 128, 128);
+}
+
+.download {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: white;
+    color: #2C3E50;
+    transition: all 0.3s ease-in-out;
+}
+
+.download:hover {
+    background: #2C3E50;
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+.whatido {
+    color: rgba(128, 128, 128, 0.877);
+
+    font-weight: 100;
+
+}
+
+.service {
+    font-size: 4.5rem;
+    font-weight: 800;
+}
+
+.whatse {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.HTML {
+    border: 1px solid rgba(0, 0, 0, 0.242);
+    width: 25%;
+    height: 300px;
+    margin-right: 20%;
+    margin-left: 10%;
+    background-color: orange;
+    transition: all 0.3s ease-in-out;
+}
+
+.HTML:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+
+
+.CSS {
+    border: rgba(0, 0, 0, 0.242)solid 1px;
+    width: 25%;
+    margin-right: 20%;
+    height: 300px;
+    background-color: blue;
+    transition: all 0.3s ease-in-out;
+
+}
+
+.CSS:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+.UIUX {
+    border: 1px solid rgba(0, 0, 0, 0.242);
+    width: 25%;
+    height: 300px;
+    margin-right: 10%;
+    background-color: blueviolet;
+    transition: all 0.3s ease-in-out;
+}
+
+.UIUX:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+
+.CSS:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+.hcu {
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+.htimg {
+    align-items: center;
+}
+
+.backbone {
+    font-size: 50%;
+    font-weight: 600;
+    color: orange;
+    transition: all 0.3s ease-in-out;
+}
+
+.backbone:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+.transforms {
+    font-size: 50%;
+    font-weight: 600;
+    color: blue;
+    transition: all 0.3s ease-in-out;
+}
+
+.transforms:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+.design {
+    font-size: 50%;
+    font-weight: 600;
+    color: blueviolet;
+    transition: all 0.3s ease-in-out;
+}
+
+.design:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+
+
+
+.serv {
+    margin-bottom: 5%;
+    color: #04063f;
+
+}
+
+
+.whatidid {
+    font-size: 1.5rem;
+}
+
+.Myproject {
+    color: #04063f;
+    margin-top: 10%;
+}
+
+.whmy {
+    text-align: center;
+}
+
+.image {
+    display: flex;
+
+
+}
+
+.first {
+    display: inline-block;
+    transition: all 0.3s ease-in-out;
+    margin-left: 10%;
+}
+
+.first:hover {
+    transform: scale(1.1);
+}
+
+.second {
+    display: inline-block;
+    transition: all 0.3s ease-in-out;
+}
+
+.second:hover {
+    transform: scale(1.1);
+}
+
+.third {
+    display: inline-block;
+    transition: all 0.3s ease-in-out;
+    width: 50%;
+
+}
+
+.third:hover {
+    transform: scale(1.1);
+}
+
+.screen {
+    transition: all 0.3s ease-in-out;
+}
+
+.screen:hover {
+    transform: scale(1.1);
+}
+
+.screenn {
+    transition: all 0.3s ease-in-out;
+}
+
+.screenn:hover {
+    transform: scale(1.1);
+}
+
+
+
+.imagee {
+    display: flex;
+
+
+}
+
+.screen {
+    margin-left: 10%;
+}
+
+.tech-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 10%;
+}
+
+.tech-icons img {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s ease;
+}
+
+.tech-icons img:hover {
+    transform: scale(1.2);
+}
+
+.did {
+    font-size: 50%;
+}
+
+.do {
+    font-size: 100%;
+}
+
+.myskills {
+    text-align: center;
+
+    color: blueviolet;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+
+.sectionfour {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.skills {
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
+    margin-bottom: 15%;
+
+}
+
+.skill-name {
+    font-size: 20px;
+    font-weight: 700;
+    color: #04063f;
+    text-transform: uppercase;
+    margin: 20px 0;
+
+}
+
+.skill-bar {
+    height: 14px;
+    background: blue;
+    border-radius: 3px;
+
+}
+
+.skill-per {
+    height: 14px;
+    background: #04063f;
+    border-radius: 3px;
+    position: relative;
+
+}
+
+.skill-per::before {
+    content: attr(per);
+    position: absolute;
+    padding: 4px 4px;
+    border: radius 4px;
+    font-size: 12px;
+    top: -35px;
+    right: 0;
+    transform: translate(50%);
+}
+
+.skill-per::after {
+
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background: #f1f1f1;
+    top: -20;
+    right: 0;
+    transform: translate(50%) rotate(45deg);
+    border-radius: 2px;
+}
+
+.set {
+    color: #04063f;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 250%;
+    margin-left: 450%;
+    border: 3px solid #04063f;
+}
+
+.sectionfive {
+    align-items: center;
+    text-align: center;
+    margin-right: 30%;
+}
+
+.contactme {
+    font-size: 4rem;
+}
+
+.howcan {
+    font-size: 1.3rem;
+
+}
+
+
+
+
+.iframe {
+    float: right;
+    width: 20%;
+    height: 400px;
+}
+
+.copy {
+    float: left;
+    margin-top: 18%;
+}
+
+.logo {
+    float: left;
+    margin-top: 17.5%;
+    padding-left: 2%;
+    gap: 20%;
+    width: 2%;
+    height: 50px;
+    display: flex;
+}
+
+.sectionfive {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.contactme h2 {
+    font-size: 24px;
+    color: #04063f;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.howcan {
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-input,
+.form-textarea {
+    width: 100%;
+    padding: 8px;
+    border: 2px solid #C7B8E3;
+    border-radius: 8px;
+    font-size: 14px;
+    color: #666;
+    background-color: #fdfdfd;
+}
+
+.form-input:focus,
+.form-textarea:focus {
+    outline: none;
+    border-color: #04063f;
+}
+
+.form-textarea {
+    height: 100px;
+    resize: none;
+}
+
+.send-button {
+    background-color: #04063f;
+    color: white;
+    padding: 8px;
+    border: 2px solid #6C4EB0;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.send-button:hover {
+    background-color: white;
+    color: #6C4EB0;
+    border-color: #6C4EB0;
+}
+
+.Seventh-Section {
+
+    width: 100%;
+    height: 380px;
+    background-color: #04063f;
+}
+
+.Footer {
+
+    color: white;
+    display: flex;
+    position: relative;
+    align-items: flex-end;
+    justify-content: center;
+    top: 30%;
+}
+
+.form-input {
+    width: 300%;
+
+}
+
+.form-textarea {
+    width: 300%;
+}
+
+.Text-Footer {
+
+    width: 30%;
+    margin-right: 30px;
+
+    border-radius: 9px;
+    padding: 30px;
+
+}
+
+.Text-Footer h1 {
+
+    margin-bottom: 30px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.Text-Footer p {
+
+    margin-top: 30px;
+    color: #ffffff;
+    font-family: "Playfair Display", serif;
+    font-weight: 300;
+}
+
+.Contact-Details {
+
+    width: 30%;
+    margin-right: 30px;
+}
+
+.Details {
+
+    padding: 8px;
+    color: #ffffff;
+}
+
+.Details img {
+
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 5px;
+    margin-right: 5px;
+}
+
+.Details p {
+
+    display: inline-block;
+    color: white;
+}
+
+
+.Navbar {
+
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-direction: row;
+}
+
+.Navbar a {
+
+    padding: 5px;
+    font-weight: 500;
+}
+
+.Social img {
+
+    width: 58px;
+    height: 54px;
+    margin-right: 20px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+
+
+.End-Section {
+    width: 100%;
+    height: 70px;
+    background-color: #04063f;
+    ;
+}
+
+.End-Text {
+
+    text-align: center;
+
+}
+
+.End-Text h6 {
+
+    position: relative;
+    bottom: -26px;
+    color: white;
+}
+
+.Active-1 {
+
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: white;
+}
+
+.ayman {
+    width: 400px;
+}
+
+.eng {
+    color: #2C3E50;
+}
+
+.newsec {
+    width: 5%;
+}
+
+
+
+.full1 {
+    display: flex;
+    flex-direction: row;
+    display: right;
+
+
+}
+
+.sectionfive {
+    padding: 20px;
+    /* background-color: #f9f9f9; */
+}
+
+.contactme-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 80px;
+}
+
+.form-container {
+    flex: 1;
+    max-width: 50%;
+    display: inline-block;
+}
+
+
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.form-input,
+.form-textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.send-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.send-button:hover {
+    background-color: #0056b3;
+}
+
+
+
+.mokupp {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-bottom: -1%;
+    margin-left: 10%;
+}
+
+.mokupp:hover {
+    background-color: #0056b3;
+}
+
+@media(max-width:425) {
+    .H {
+        font-size: 29px;
+
+    }
+
+    .eng {
+        font-size: 15px;
+        width: 196px;
+    }
+
+    .imgone {
+        width: 180px;
+        position: relative;
+        left: -15px;
+        top: -249px;
+    }
+
+    .ayman {
+        width: 400px;
+    }
+}
